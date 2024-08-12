@@ -1,0 +1,9 @@
+h1 {
+    color: steelblue;
+    border: 2px dotted rgb(169,186,157);
+    background-image: linear-gradient(rgb(156,202,227),rgb(172,120,186));
+}
+
+.sage {
+    color: rgb(169,186,157)
+}
